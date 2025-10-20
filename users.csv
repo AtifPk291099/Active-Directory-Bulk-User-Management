@@ -1,0 +1,6 @@
+"FirstName,LastName,Username,OU,Group"
+"John,Doe,jdoe,""OU=IT,DC=domain,DC=com"",""IT-Group"""
+"Jane,Smith,jsmith,""OU=HR,DC=domain,DC=com"",""HR-Group"""
+"Rahul,Sharma,rsharma,""OU=Finance,DC=domain,DC=com"",""Finance-Group"""
+"Aisha,Khan,akhan,""OU=Operations,DC=domain,DC=com"",""Ops-Group"""
+"Emily,Clark,eclark,""OU=Marketing,DC=domain,DC=com"",""Marketing-Group"""
